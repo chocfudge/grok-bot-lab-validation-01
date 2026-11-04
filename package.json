@@ -1,0 +1,9 @@
+{
+  "name": "dispatch-metrics-demo",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Synthetic Node.js demo for read-only agent audit experiments",
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": { "test": "node --test" }
+}

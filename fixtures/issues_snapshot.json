@@ -1,0 +1,16 @@
+{
+  "source_type": "synthetic_fixture_not_live_github",
+  "captured_at": "2026-09-18T09:00:00+07:00",
+  "tickets": [
+    {
+      "id": "DEMO-41",
+      "title": "Verify pending-status metrics in the nightly report",
+      "status": "open"
+    },
+    {
+      "id": "DEMO-42",
+      "title": "Refresh release checklist links",
+      "status": "closed"
+    }
+  ]
+}
